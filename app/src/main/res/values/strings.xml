@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="btn_about">ABOUT ALC</string>
+    <string name="btn_profile">MY PROFILE</string>
+    <string name="title_activity_andela2">About ALC</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="profile_pic_descrip">My profile image</string>
+    <string name="profile_name">TAKOUMBO MBE</string>
+    <string name="track_name">Track :</string>
+    <string name="track_value">Android</string>
+    <string name="country_name">Country :</string>
+    <string name="country_value">Gabon</string>
+    <string name="email_name">Email :</string>
+    <string name="email_value">yvansnippeur@gmail.com</string>
+    <string name="phone_name">Phone number :</string>
+    <string name="phone_value">+24102695960</string>
+    <string name="slack_name">Slack Username :</string>
+    <string name="slack_name_value">TAKOUMBO MBE YVAN</string>
+
+</resources>

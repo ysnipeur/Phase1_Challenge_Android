@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3359df</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btnChallenge1Color">#ffaf30</color>
+    <color name="welcomeBackground">#F0F0F0</color>
+</resources>
